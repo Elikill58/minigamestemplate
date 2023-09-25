@@ -1,0 +1,13 @@
+name: GameMenuPlugin
+version: 1.0.0
+main: com.GameMenuPlugin
+author: TikOf
+description: ...
+
+commands:
+  gamemenu:
+    description: Ouvre le menu de configuration du jeu.
+    usage: /<command>
+  start:
+    description: Démarre le jeu si les conditions sont remplies (pour les joueurs op).
+    usage: /<command>
